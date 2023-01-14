@@ -1,5 +1,6 @@
 # PM2.5_RealtimeAnalysis
-โปรเจครายวิชา DADS6005 
+โปรเจครายวิชา DADS6005 Data Streaming and Real-Time Analytics 
+
 
 # Presentation Video and Demo Dashboard
 [Presentation Link](https://nida365-my.sharepoint.com/:v:/g/personal/supisara_poo_stu_nida_ac_th/EXEC_MCdgkxEoa8ycTBWSaMBLpZfrmKJAxj93vtYYDxXgQ)
